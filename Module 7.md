@@ -41,6 +41,9 @@ printf("Age:%d\nName:%svaccine:%d\neligibility:yes",e.age,e.n,e.age);
 
 ```
 
+
+
+
 Output:
 
 ![437295418-875d7abd-3282-4d64-96f7-b69834282f0a](https://github.com/user-attachments/assets/19d490dd-1826-4d18-982a-d549a4c16105)
@@ -82,6 +85,10 @@ return n.a+n.b;
 }
 
 ```
+
+
+
+
 
 
 Output:
@@ -127,6 +134,9 @@ printf("\n%s File Closed",name);
 }
 ```
 
+
+
+
 Output:
 
 ![3](https://github.com/user-attachments/assets/e4a36671-9400-475d-af51-47c29e68da15)
@@ -171,6 +181,9 @@ printf("\nData added Successfully");
 
 }
 ```
+
+
+
 
 Output:
 
@@ -246,6 +259,9 @@ int main()
     return 0;
 }
 ```
+
+
+
 
 Output:
 

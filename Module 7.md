@@ -39,6 +39,12 @@ printf("Age:%d\nName:%svaccine:%d\neligibility:yes",e.age,e.n,e.age);
 
 }
 
+
+
+
+
+
+
 ```
 
 
